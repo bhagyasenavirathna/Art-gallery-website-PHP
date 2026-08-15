@@ -1,0 +1,5 @@
+PHPMailer real email send වෙන්න project folder එකේ Terminal open කරලා:
+
+composer install
+
+ඊට පස්සේ config/mail.php file එකේ MAIL_USERNAME, MAIL_PASSWORD, MAIL_FROM_EMAIL values දාන්න. Gmail නම් App Password එකක් භාවිතා කරන්න.

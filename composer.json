@@ -1,0 +1,9 @@
+{
+    "name": "whitecoder/art-gallery-premium",
+    "description": "Premium PHP MySQL Art Gallery website with PHPMailer OTP login.",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
